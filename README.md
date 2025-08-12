@@ -1,0 +1,2 @@
+# LRreadAPI
+API DE LEITURA OCR
