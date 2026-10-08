@@ -1,2 +1,2 @@
 # LRreadAPI
-API DE LEITURA OCR
+Api de leitura ocr utilizando JavaScript
